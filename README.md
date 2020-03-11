@@ -1,7 +1,8 @@
 # mal-poc-njs-tesseract
 It's a Proof of Concept for Tesseract ORC using Node JS.
 
-## By Example: https://github.com/naptha/tesseract.js/blob/master/docs/examples.md 
+## By Example: 
+ - https://github.com/naptha/tesseract.js/blob/master/docs/examples.md 
 
 ```javascript
 const Tesseract = require('tesseract.js');
