@@ -3,6 +3,7 @@ It's a Proof of Concept for Tesseract ORC using Node JS.
 
 ## By Example: https://github.com/naptha/tesseract.js/blob/master/docs/examples.md 
 
+```javascript
 const { createWorker } = require('tesseract.js');
 
 const worker = createWorker();
@@ -33,3 +34,4 @@ const rectangles = [
   console.log(values);
   await worker.terminate();
 })();
+```
