@@ -1,0 +1,23 @@
+{
+  "name": "mal-poc-njs-tesseract",
+  "version": "1.0.0",
+  "description": "It's a Proof of Concept for Tesseract ORC using Node JS.",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "teste.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malnati/mal-poc-njs-tesseract.git"
+  },
+  "author": "Ricardo Malnati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malnati/mal-poc-njs-tesseract/issues"
+  },
+  "homepage": "https://github.com/Malnati/mal-poc-njs-tesseract#readme"
+}
